@@ -1,4 +1,4 @@
-# Ramdom password generator
+# Ramdom readable password generator
 import random
  
 wordlist =[]
