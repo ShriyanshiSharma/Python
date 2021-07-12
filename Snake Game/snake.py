@@ -78,7 +78,7 @@ def gameloop():
 
             window.fill(white)
          
-            screen_text("Chala Ja Yaha se Bh******k!", black, 130,250)
+            screen_text("Game is Over!! Press Enter to play.", black, 130,250)
             for event in pygame.event.get():
         
                 if event.type == pygame.QUIT:
